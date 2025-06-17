@@ -31,7 +31,7 @@ Calcular a **quantidade de produtos vendidos por categoria** em cada loja. A ide
 
 <img src="/imagens/vendascategorias.png">
 
-O gráfico ilustra a participação de cada categoria de produtos no faturamento de cada loja. O objetivo foi identificar as categorias que mais contribuem para o faturamento e aquelas com menor impacto. Observou-se que a categoria de móveis é a principal responsável pelo faturamento em todas as lojas. Por outro lado, a contribuição das categorias de utilidades domésticas, instrumentos musicais e livros apresentou flutuações, indicando variações em seu desempenho.
+O gráfico ilustra a participação de cada categoria de produtos no faturamento de cada loja. O objetivo foi identificar as categorias que mais contribuem para o faturamento e aquelas com menor impacto. Observou-se que a categoria de móveis é a principal responsável pelo faturamento em todas as lojas. Por outro lado, a contribuição das categorias de utilidades domésticas e instrumentos musicais apresentou flutuações, indicando variações em seu desempenho.
 
 ## 🌟 Média de Avaliação por Loja 🌟
 Calcular a média das avaliações dos clientes para cada loja, com o objetivo de **entender a satisfação dos clientes com os produtos vendidos**.
@@ -53,6 +53,13 @@ Calcular o custo médio de frete para cada loja. O objetivo é entender quanto, 
 
 <img src="/imagens/fretemedio.png">
 
-O gráfico ilustra o custo médio com frete em cada loja. Considerando a ordem a partir do maior custo médio, a Loja 1 apresenta um custo de R$ 34,69, seguida pela Loja 2 com R$ 33,62, Loja 3 com R$ 33,07 e, por último, a Loja 4, com o menor custo médio, de R$ 31,28. O gráfico também apresenta uma linha que representa o custo médio do frete considerando todas as lojas, permitindo observar quais estão acima ou abaixo da média geral do custo de frete.
+O gráfico ilustra o custo médio com frete em cada loja. Considerando a ordem a partir do maior custo médio, a Loja 1 apresenta um custo de R$ 34,69, seguida pela Loja 2 com R$ 33,62, Loja 3 com R$ 33,07 e, por último, a Loja 4, com o menor custo médio, de R$ 31,28. O gráfico também apresenta uma linha que representa o custo médio do frete considerando todas as lojas, permitindo observar quais estão acima ou abaixo da média geral do custo de frete. 
 
 ## 📋 Relatório Final 📋
+
+| Loja | Faturamento | Categoria ➕ | Categoria ➖ | Avaliação Média | Produto ➕ | Produto ➖ |  Frete Médio |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Loja 1 | R$ 1.534.509,12 | Móveis (19,7%) | Utilidades Domésticas (7,2%) | ⭐ (3,98) | Guarda-roupas (60) | Celular (33) | R$ 34,69 |
+| Loja 2 | R$ 1.488.459,06 | Móveis (18,7%) | Utilidades Domésticas (7,7%) | ⭐ (4,04) | Iniciando em Programação (65) | Jogo de Tabuleiro (32) | R$ 33,62 |
+| Loja 3 | R$ 1.464.025,03 | Móveis (21,2%) | Instrumentos Musicais (7,5%) | ⭐ (4,05) | Kit Banquetas (57) | Blocos de Montar (35) | R$ 33,07 |
+| Loja 4 | R$ 1.384.497,58 | Móveis (20,4%) | Instrumentos Musicais (7,2%) | ⭐ (4,00) | Cama Box (62) | Guitarra (33) | R$ 31,28 |
