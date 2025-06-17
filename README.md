@@ -48,8 +48,9 @@ Identificar quais produtos foram os mais vendidos e os menos vendidos em cada lo
 
 O gráfico ilustra os produtos mais e menos vendidos de cada loja. Podemos observar que a variação entre o produto mais vendido e o menos vendido em cada loja é significativa. Na Loja 1, o guarda-roupas teve 60 unidades vendidas, enquanto o celular ABXY vendeu 33 unidades. Na Loja 2, o livro "Iniciando em Programação" alcançou 65 unidades vendidas, enquanto o jogo de tabuleiro vendeu apenas 32. Na Loja 3, o kit de banquetas teve 57 unidades vendidas, enquanto o bloco de montar vendeu somente 35. Por fim, na Loja 4, a cama box vendeu 62 unidades, enquanto a guitarra teve 33 unidades vendidas.
 
-## Frete Médio por Loja
+## 🚛 Frete Médio por Loja 🚛
 Calcular o custo médio de frete para cada loja. O objetivo é entender quanto, em média, está sendo gasto com frete para cada uma das lojas.
 
 <img src="/imagens/fretemedio.png">
 
+O gráfico ilustra o custo médio com frete em cada loja. Considerando a ordem a partir do maior custo médio, a Loja 1 apresenta um custo de R$ 34,69, seguida pela Loja 2 com R$ 33,62, Loja 3 com R$ 33,07 e, por último, a Loja 4, com o menor custo médio, de R$ 31,28. O gráfico também apresenta uma linha que representa o custo médio do frete considerando todas as lojas, permitindo observar quais estão acima ou abaixo da média geral do custo de frete.
