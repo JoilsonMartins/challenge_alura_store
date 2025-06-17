@@ -54,3 +54,5 @@ Calcular o custo médio de frete para cada loja. O objetivo é entender quanto, 
 <img src="/imagens/fretemedio.png">
 
 O gráfico ilustra o custo médio com frete em cada loja. Considerando a ordem a partir do maior custo médio, a Loja 1 apresenta um custo de R$ 34,69, seguida pela Loja 2 com R$ 33,62, Loja 3 com R$ 33,07 e, por último, a Loja 4, com o menor custo médio, de R$ 31,28. O gráfico também apresenta uma linha que representa o custo médio do frete considerando todas as lojas, permitindo observar quais estão acima ou abaixo da média geral do custo de frete.
+
+## 📋 Relatório Final 📋
