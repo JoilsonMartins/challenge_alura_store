@@ -57,9 +57,34 @@ O gráfico ilustra o custo médio com frete em cada loja. Considerando a ordem a
 
 ## 📋 Relatório Final 📋
 
+### ✅ Objetivo ✅
+
+Este relatório analisa o desempenho de quatro lojas com base nos dados fornecidos (Faturamento, Categoria com maior e menor desempenho, Avaliação Média, Produto mais e menos vendido e Frete Médio, como pode ser visto na tabela abaixo) para determinar qual loja deve ser vendida, considerando o menor desempenho geral, com o objetivo de obter recursos para investimento em outro empreendimento.
+
 | Loja | Faturamento | Categoria ➕ | Categoria ➖ | Avaliação Média | Produto ➕ | Produto ➖ |  Frete Médio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Loja 1 | R$ 1.534.509,12 | Móveis (19,7%) | Utilidades Domésticas (7,2%) | ⭐ (3,98) | Guarda-roupas (60) | Celular (33) | R$ 34,69 |
 | Loja 2 | R$ 1.488.459,06 | Móveis (18,7%) | Utilidades Domésticas (7,7%) | ⭐ (4,04) | Iniciando em Programação (65) | Jogo de Tabuleiro (32) | R$ 33,62 |
 | Loja 3 | R$ 1.464.025,03 | Móveis (21,2%) | Instrumentos Musicais (7,5%) | ⭐ (4,05) | Kit Banquetas (57) | Blocos de Montar (35) | R$ 33,07 |
 | Loja 4 | R$ 1.384.497,58 | Móveis (20,4%) | Instrumentos Musicais (7,2%) | ⭐ (4,00) | Cama Box (62) | Guitarra (33) | R$ 31,28 |
+
+
+### 🏆 Conclusão 🏆
+
+Com base na análise, a **Loja 4** é a recomendação para ser vendida.
+
+**Justificativa:**
+
+**Menor Faturamento:** A Loja 4 apresenta o menor faturamento (R$ 1.384.497,58), o que indica menor desempenho financeiro em comparação com as demais lojas. Essa diferença é significativa (R$ 150.011,54 em relação à Loja 1), sugerindo menor potencial de geração de receita.
+
+**Avaliação Média Intermediária:** Embora a avaliação média (4,00) seja ligeiramente superior à da Loja 1 (3,98, ou seja, diferença de apenas 0,02), ela está abaixo das Lojas 2 e 3, indicando que não se destaca em satisfação do cliente.
+
+**Compensações Insuficientes:** Apesar do menor frete médio (R$ 31,28), que seria uma vantagem, e da boa participação da categoria Móveis (20,4%), esses pontos não compensam o baixo faturamento, especialmente considerando que o objetivo é maximizar o retorno financeiro para investir em outro empreendimento.
+
+**Comparação com Outras Lojas:**
+
+* A Loja 1, apesar da menor avaliação e frete mais alto, tem o maior faturamento, indicando maior potencial de retorno.
+* A Loja 2, embora tenha fraquezas em diversificação, apresenta maior venda do produto principal e boa avaliação média.
+* A Loja 3 se destaca pela maior avaliação média e diversificação, com faturamento próximo ao da Loja 2.
+
+Portanto, a Loja 4 é a que apresenta o menor desempenho geral, principalmente devido ao faturamento significativamente mais baixo e a satisfação do cliente é a terceira entre as quatro lojas. Isso indica que a loja pode ter dificuldades em atrair e reter clientes, o que pode impactar negativamente o retorno sobre o investimento, tornando-a a candidata ideal para venda, permitindo que os recursos sejam redirecionados para investimentos mais promissores.
