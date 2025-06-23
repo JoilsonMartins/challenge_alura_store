@@ -24,21 +24,21 @@ Calcular o **faturamento total de cada loja**, somando os valores da coluna **Pr
 
 <img src="/imagens/faturamento.png">
 
-O gráfico ilustra o faturamento total de cada loja. A Loja 1 lidera com o maior faturamento, totalizando R$ 1.534.509,12, seguida pela Loja 2 com R$ 1.488.459,06, Loja 3 com R$ 1.464.025,03 e, por último, a Loja 4 com R$ 1.384.497,58. Assim, podemos concluir que a Loja 1 obteve o melhor desempenho em faturamento, enquanto a Loja 4 apresentou o menor.
+**Análise:** O gráfico ilustra o faturamento total de cada loja. A Loja 1 lidera com o maior faturamento, totalizando R$ 1.534.509,12, seguida pela Loja 2 com R$ 1.488.459,06, Loja 3 com R$ 1.464.025,03 e, por último, a Loja 4 com R$ 1.384.497,58. Assim, podemos concluir que a Loja 1 obteve o melhor desempenho em faturamento, enquanto a Loja 4 apresentou o menor.
 
 ## 🛒 Vendas por Categoria 🛒
 Calcular a **quantidade de produtos vendidos por categoria** em cada loja. A ideia é agrupar os dados por categoria e contar o número de vendas de cada tipo, mostrando as **categoria mais populares** de cada loja.
 
 <img src="/imagens/vendascategorias.png">
 
-O gráfico ilustra a participação de cada categoria de produtos no faturamento de cada loja. O objetivo foi identificar as categorias que mais contribuem para o faturamento e aquelas com menor impacto. Observou-se que a categoria de móveis é a principal responsável pelo faturamento em todas as lojas. Por outro lado, a contribuição das categorias de utilidades domésticas e instrumentos musicais apresentou flutuações, indicando variações em seu desempenho.
+**Análise:** O gráfico ilustra a participação de cada categoria de produtos no faturamento de cada loja. O objetivo foi identificar as categorias que mais contribuem para o faturamento e aquelas com menor impacto. Observou-se que a categoria de móveis é a principal responsável pelo faturamento em todas as lojas. Por outro lado, a contribuição das categorias de utilidades domésticas e instrumentos musicais apresentou flutuações, indicando variações em seu desempenho.
 
 ## 🌟 Média de Avaliação por Loja 🌟
 Calcular a média das avaliações dos clientes para cada loja, com o objetivo de **entender a satisfação dos clientes com os produtos vendidos**.
 
 <img src="/imagens/avaliacao.png">
 
-O gráfico ilustra a avaliação média da satisfação dos clientes em relação a cada loja, mensurada em uma escala de 1 a 5. A Loja 3 lidera em satisfação, com uma média de avaliação de 4,05, seguida pela Loja 2 com 4,04, Loja 4 com 4,00 e, por último, a Loja 1, com 3,98. Assim, podemos concluir que a Loja 3 obteve a melhor avaliação entre os clientes, enquanto a Loja 1 apresentou a pior, embora a diferença seja de apenas 0,07.
+**Análise:** O gráfico ilustra a avaliação média da satisfação dos clientes em relação a cada loja, mensurada em uma escala de 1 a 5. A Loja 3 lidera em satisfação, com uma média de avaliação de 4,05, seguida pela Loja 2 com 4,04, Loja 4 com 4,00 e, por último, a Loja 1, com 3,98. Assim, podemos concluir que a Loja 3 obteve a melhor avaliação entre os clientes, enquanto a Loja 1 apresentou a pior, embora a diferença seja de apenas 0,07.
 O gráfico apresenta uma linha que representa a média da avaliação geral entre as lojas, permitindo observar quais estão acima ou abaixo da média de satisfação de todas as lojas.
 
 ## 📈 Produtos Mais e Menos Vendidos 📉
@@ -46,14 +46,14 @@ Identificar quais produtos foram os mais vendidos e os menos vendidos em cada lo
 
 <img src="/imagens/maismenosvendido.png">
 
-O gráfico ilustra os produtos mais e menos vendidos de cada loja. Podemos observar que a variação entre o produto mais vendido e o menos vendido em cada loja é significativa. Na Loja 1, o guarda-roupas teve 60 unidades vendidas, enquanto o celular ABXY vendeu 33 unidades. Na Loja 2, o livro "Iniciando em Programação" alcançou 65 unidades vendidas, enquanto o jogo de tabuleiro vendeu apenas 32. Na Loja 3, o kit de banquetas teve 57 unidades vendidas, enquanto o bloco de montar vendeu somente 35. Por fim, na Loja 4, a cama box vendeu 62 unidades, enquanto a guitarra teve 33 unidades vendidas.
+**Análise:** O gráfico ilustra os produtos mais e menos vendidos de cada loja. Podemos observar que a variação entre o produto mais vendido e o menos vendido em cada loja é significativa. Na Loja 1, o guarda-roupas teve 60 unidades vendidas, enquanto o celular ABXY vendeu 33 unidades. Na Loja 2, o livro "Iniciando em Programação" alcançou 65 unidades vendidas, enquanto o jogo de tabuleiro vendeu apenas 32. Na Loja 3, o kit de banquetas teve 57 unidades vendidas, enquanto o bloco de montar vendeu somente 35. Por fim, na Loja 4, a cama box vendeu 62 unidades, enquanto a guitarra teve 33 unidades vendidas.
 
 ## 🚛 Frete Médio por Loja 🚛
 Calcular o custo médio de frete para cada loja. O objetivo é entender quanto, em média, está sendo gasto com frete para cada uma das lojas.
 
 <img src="/imagens/fretemedio.png">
 
-O gráfico ilustra o custo médio com frete em cada loja. Considerando a ordem a partir do maior custo médio, a Loja 1 apresenta um custo de R$ 34,69, seguida pela Loja 2 com R$ 33,62, Loja 3 com R$ 33,07 e, por último, a Loja 4, com o menor custo médio, de R$ 31,28. O gráfico também apresenta uma linha que representa o custo médio do frete considerando todas as lojas, permitindo observar quais estão acima ou abaixo da média geral do custo de frete. 
+**Análise:** O gráfico ilustra o custo médio com frete em cada loja. Considerando a ordem a partir do maior custo médio, a Loja 1 apresenta um custo de R$ 34,69, seguida pela Loja 2 com R$ 33,62, Loja 3 com R$ 33,07 e, por último, a Loja 4, com o menor custo médio, de R$ 31,28. O gráfico também apresenta uma linha que representa o custo médio do frete considerando todas as lojas, permitindo observar quais estão acima ou abaixo da média geral do custo de frete. 
 
 ## 📋 Relatório Final 📋
 
@@ -83,17 +83,18 @@ Com base na análise, a **Loja 4** é a recomendação para ser vendida.
 
 **Comparação com Outras Lojas:**
 
-* A Loja 1, apesar da menor avaliação e frete mais alto, tem o maior faturamento, indicando maior potencial de retorno.
-* A Loja 2, embora tenha fraquezas em diversificação, apresenta maior venda do produto principal e boa avaliação média.
-* A Loja 3 se destaca pela maior avaliação média e diversificação, com faturamento próximo ao da Loja 2.
+* **A Loja 1**, apesar da menor avaliação e frete mais alto, tem o maior faturamento, indicando maior potencial de retorno.
+* **A Loja 2**, embora tenha fraquezas em diversificação, apresenta maior venda do produto principal e boa avaliação média.
+* **A Loja 3**, se destaca pela maior avaliação média e diversificação, com faturamento próximo ao da Loja 2.
 
 Portanto, a Loja 4 é a que apresenta o menor desempenho geral, principalmente devido ao faturamento significativamente mais baixo e a satisfação do cliente é a terceira entre as quatro lojas. Isso indica que a loja pode ter dificuldades em atrair e reter clientes, o que pode impactar negativamente o retorno sobre o investimento, tornando-a a candidata ideal para venda, permitindo que os recursos sejam redirecionados para investimentos mais promissores.
 
+---
 
 # Extra! Análise de Desempenho Geográfico
 O desafio é explorar as coordenadas geográficas dos dados de venda e identificar padrões relacionados à localização das compras. Utilizando as colunas de **latitude** e **longitude**, você pode gerar visualizações para entender como as vendas variam de acordo com a localização geográfica.
 
-<img src="/imagens/desafioextra.png">
+<img src="/imagens/mapa_calor.PNG">
 
 O mapa de calor permite visualizar a distribuição das vendas por local, facilitando a identificação de padrões e tendências. No caso, o imagem mostra a quantidade total de produtos comprados em diferentes locais, permitindo várias análises, como:
 * **Locais com maior vendas:** Identificar os locais com o maior número de produtos comprados, como São Paulo (SP) sendo o principal comprador, seguido por Rio de Janeiro (RJ) e Minas Gerais (MG) com boa participação. Isso pode indicar onde a demanda é mais alta.
