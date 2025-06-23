@@ -88,3 +88,7 @@ Com base na análise, a **Loja 4** é a recomendação para ser vendida.
 * A Loja 3 se destaca pela maior avaliação média e diversificação, com faturamento próximo ao da Loja 2.
 
 Portanto, a Loja 4 é a que apresenta o menor desempenho geral, principalmente devido ao faturamento significativamente mais baixo e a satisfação do cliente é a terceira entre as quatro lojas. Isso indica que a loja pode ter dificuldades em atrair e reter clientes, o que pode impactar negativamente o retorno sobre o investimento, tornando-a a candidata ideal para venda, permitindo que os recursos sejam redirecionados para investimentos mais promissores.
+
+
+# Extra! Análise de Desempenho Geográfico
+O desafio é explorar as coordenadas geográficas dos dados de venda e identificar padrões relacionados à localização das compras. Utilizando as colunas de **latitude** e **longitude**, você pode gerar visualizações para entender como as vendas variam de acordo com a localização geográfica.
