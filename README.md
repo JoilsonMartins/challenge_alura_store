@@ -92,3 +92,13 @@ Portanto, a Loja 4 é a que apresenta o menor desempenho geral, principalmente d
 
 # Extra! Análise de Desempenho Geográfico
 O desafio é explorar as coordenadas geográficas dos dados de venda e identificar padrões relacionados à localização das compras. Utilizando as colunas de **latitude** e **longitude**, você pode gerar visualizações para entender como as vendas variam de acordo com a localização geográfica.
+
+<img src="/imagens/desafioextra.png">
+
+O mapa de calor permite visualizar a distribuição das vendas por local, facilitando a identificação de padrões e tendências. No caso, o imagem mostra a quantidade total de produtos comprados em diferentes locais, permitindo várias análises, como:
+* **Locais com maior vendas:** Identificar os locais com o maior número de produtos comprados, como São Paulo (SP) sendo o principal comprador, seguido por Rio de Janeiro (RJ) e Minas Gerais (MG) com boa participação. Isso pode indicar onde a demanda é mais alta.
+* **Locais com Menor Vendas:** Analisar os locais com menor número de produtos comprados, como Roraima (RR), Acre (AC) e Amapá (AP). Isso pode sugerir áreas com menor penetração de mercado ou interesse nos produtos. Isso pode gerar oportunidade, se considerar estratégias de marketing ou promoções para aumentar as vendas nessas áreas.
+* **Regiões com Alto Desempenho:** Comparar o desempenho de diferentes regiões (Norte, Nordeste, Sul, Sudeste, Centro-Oeste) para entender onde as vendas são mais fortes. Por exemplo, o Sudeste tem um desempenho superior em comparação com outras regiões, podendo influenciar na criação de centro de distribuição.
+* **Foco em Expansão:** Com base nas análises, recomendar áreas para expansão de negócios ou aumento de marketing.
+
+Essas análises podem fornecer *insights* valiosos para a tomada de decisões estratégicas, ajudando a otimizar as operações de vendas e marketing.
